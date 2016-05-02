@@ -1,0 +1,10 @@
+classes
+bin
+target
+build.gradle
+.classpath
+.project
+.settings
+bin
+example3/build
+.DS_Store
